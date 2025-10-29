@@ -1,6 +1,6 @@
 <h2 align="left">Olá, seja bem-vindo(a)👋!</h2>
 
-Meu nome é Luca Maia, atualmente sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA). Tenho profundo interesse em programação e hardware, no meu tempo livre costumo me aprofundar nessas áreas, desenvolvendo algoritmos e programas simples, com o intuito de fixar meu aprendizado e se possível auxiliar pessoas que assim como eu, estão começando nessa incrível área.
+<p style="font-size: 1.1em;">Meu nome é Luca Maia, atualmente sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA). Tenho profundo interesse em programação e hardware, no meu tempo livre costumo me aprofundar nessas áreas, desenvolvendo algoritmos e programas simples, com o intuito de fixar meu aprendizado e se possível auxiliar pessoas que assim como eu, estão começando nessa incrível área.</p>
 
 ---
 
@@ -41,6 +41,6 @@ Meu nome é Luca Maia, atualmente sou estudante de Engenharia da Computação na
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/L-MaiaCode/L-MaiaCode/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/L-MaiaCode/L-MaiaCode/output/snake.svg" alt="" />
 
 ###
