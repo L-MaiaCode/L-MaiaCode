@@ -18,8 +18,8 @@ Meu nome é Luca Maia, atualmente sou estudante de Engenharia da Computação na
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L-MaiaCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L-MaiaCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=L-MaiaCode&show_icons=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L-MaiaCode&locale=pt-br&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
